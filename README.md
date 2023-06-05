@@ -1,5 +1,5 @@
 # Tipos de teste de carga
-#
+
 - <b>Smoke Tests</b> -> Verifica se seu script funciona de forma correta e seu sistema performa adequadamente em capacidades mínimas.
 
 
