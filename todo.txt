@@ -1,0 +1,2 @@
+TODO: 1. Criar uma imagem docker banco de dados MySQL para testes e conectar "educational magement" a ela.
+      2. Testar aplicação educational management com testes K6.
